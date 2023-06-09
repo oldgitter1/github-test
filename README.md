@@ -1,3 +1,3 @@
-This is a readme with lots of words!
+This is a readme of the actual changes i need to make!
 
-this was made on a second branch!
+WOW I AM WORKING
